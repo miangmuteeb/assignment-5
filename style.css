@@ -1,0 +1,47 @@
+* {
+margin: 0 auto;
+padding: 0%;
+box-sizing: border-box;
+text-align: center;
+text-decoration: none;
+
+}
+main {
+    min-height: calc(100vh - 88px);
+}
+nav a {
+    color: rgb(202, 18, 18);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 45px;
+
+    
+}
+nav a :hover {
+    color: rgb(46, 8, 218);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 45px;
+    cu
+}
+nav {
+    
+    
+    padding: 35px;
+   background-image: url(pics/pexels-photo-998641.jpeg);
+     background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+nav:hover{
+    
+    
+    background-color: rgb(241, 208, 16);
+
+}
+
+
+
